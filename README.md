@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DragEmIn777
 - 👀 I’m interested in creating new things!
-- 🌱 I’m currently learning Python using a 100 Days of Code bootcamp
+- 🌱 I’m currently learning at Flatiron School
 - 📫 How to reach me: mtd5264@gmail.com
 
 <!---
